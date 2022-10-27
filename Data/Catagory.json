@@ -12,7 +12,19 @@
       "view": 700
       
     },
-    
+    {
+        
+      "id": 2,
+      "title": "Website-Design",
+      "name": "Atikur-Zahman ",
+      "price": 12000,
+      "description": "A well-designed website can help you form a good impression on your prospective customers. It can also help you nurture your leads and get more conversions. But, more importantly, it provides good user experience and helps your website visitors access and navigate your website with ease.",
+      "category": "Online",
+      "image": "https://miro.medium.com/max/1400/1*aTYOTFS4Vkr-nwHNML3GvQ.jpeg",
+      "rate": 4.9,
+      "view": 1200
+
+    },
     {
         
       "id": 3,
